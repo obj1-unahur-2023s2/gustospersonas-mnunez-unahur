@@ -17,7 +17,6 @@ object pardo {
 		
 }
 
-
 object naranja {
 	method fuerte() = true
 		
